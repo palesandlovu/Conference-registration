@@ -1,0 +1,42 @@
+<!DOCTYPE registrationlist>
+<registrationlist>
+ <registration type="Registration">
+  <attendee>
+   <name>Mbali Ndlovu</name>
+   <affiliation>Unisa</affiliation>
+   <email>mbali@unisa.org.za</email>
+  </attendee>
+  <bookingdate>Thu Jul 18 2024</bookingdate>
+  <registrationfee>500</registrationfee>
+ </registration>
+ <registration type="StudentRegistration">
+  <attendee>
+   <name>Palesa Mphaloane</name>
+   <affiliation>UP</affiliation>
+   <email>palesa@up.org.za</email>
+  </attendee>
+  <bookingdate>Thu Jul 18 2024</bookingdate>
+  <registrationfee>250</registrationfee>
+  <qualification>BSc</qualification>
+ </registration>
+ <registration type="GuestRegistration">
+  <attendee>
+   <name>Karabo Mosia</name>
+   <affiliation>UJ</affiliation>
+   <email>karabo@uj.org.za</email>
+  </attendee>
+  <bookingdate>Thu Jul 18 2024</bookingdate>
+  <registrationfee>50</registrationfee>
+  <category>Speaker</category>
+ </registration>
+ <registration type="GuestRegistration">
+  <attendee>
+   <name>Nono Moyo</name>
+   <affiliation>UJ</affiliation>
+   <email>nono@uj.org.za</email>
+  </attendee>
+  <bookingdate>Thu Jul 18 2024</bookingdate>
+  <registrationfee>50</registrationfee>
+  <category>Speaker</category>
+ </registration>
+</registrationlist>

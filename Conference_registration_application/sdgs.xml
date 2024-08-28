@@ -1,0 +1,13 @@
+<!DOCTYPE registrationlist>
+<registrationlist>
+ <registration type="StudentRegistration">
+  <attendee>
+   <name>Mbali</name>
+   <affiliation>ksf</affiliation>
+   <email>,dmf</email>
+  </attendee>
+  <bookingdate>Thu Jul 18 2024</bookingdate>
+  <registrationfee>250</registrationfee>
+  <qualification>wkjfe</qualification>
+ </registration>
+</registrationlist>
